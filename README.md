@@ -1,2 +1,2 @@
 # CV
-Curriculum Vitae template to practice CSS techniques
+Curriculum Vitae template to practice CSS techniques.
